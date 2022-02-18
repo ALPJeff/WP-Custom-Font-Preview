@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       https://jefferykarbowski.com
+ * @link       https://wpfontpreview.com
  * @since      1.0.0
  *
  * @package    Wp_Custom_Font_Preview
@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Wp_Custom_Font_Preview
  * @subpackage Wp_Custom_Font_Preview/includes
- * @author     Jeffery Karbowski <jefferykarbowski@gmail.com>
+ * @author     Jeff Williams <jeff@autumnlanepaperie.com>
  */
 class Wp_Custom_Font_Preview {
 
