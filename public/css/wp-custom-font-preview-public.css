@@ -4,6 +4,9 @@
     width: 100%;
     text-align: center;
 }
+.wp-custom-font-preview-title  {
+	font-size: 30px;
+}
 .wp-custom-font-preview-shortcode-container{
 	text-align: center;
 }
