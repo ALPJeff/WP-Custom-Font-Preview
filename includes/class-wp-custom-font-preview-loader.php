@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://jefferykarbowski.com
+ * @link       https://wpfontpreview.com
  * @since      1.0.0
  *
  * @package    Wp_Custom_Font_Preview
@@ -19,7 +19,7 @@
  *
  * @package    Wp_Custom_Font_Preview
  * @subpackage Wp_Custom_Font_Preview/includes
- * @author     Jeffery Karbowski <jefferykarbowski@gmail.com>
+ * @author     Jeff Williams <jeff@autumnlanepaperie.com>
  */
 class Wp_Custom_Font_Preview_Loader {
 
