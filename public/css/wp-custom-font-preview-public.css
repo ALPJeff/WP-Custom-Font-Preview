@@ -1,0 +1,27 @@
+#wp_custom_font_preview_input,
+.wp_custom_font_preview_output {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.wp-custom-font-preview-shortcode-container{
+	text-align: center;
+}
+.wp_custom_font_preview_output {
+    min-height: 30px;
+}
+.wp-custom-font-preview {
+    font-size: 25px;
+	min-height: 40px;
+	border: 1px solid #cacaca;
+}
+#wp_custom_font_preview_slider_container {
+	text-align: center;
+}
+#wp_custom_font_preview_slider_container p{
+	margin: 0;
+	font-size: 12px;
+}
+#wp_custom_font_preview_slider_container input {
+	padding: 0;
+}
