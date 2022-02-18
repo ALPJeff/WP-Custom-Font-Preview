@@ -5,7 +5,7 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       https://jefferykarbowski.com
+ * @link       https://wpfontpreview.com
  * @since      1.0.0
  *
  * @package    Wp_Custom_Font_Preview
