@@ -25,7 +25,7 @@ class Wp_Custom_Font_Preview_Activator {
 	public static function activate() {
 
         if (!is_plugin_active('custom-fonts/custom-fonts.php')) {
-            wp_die(__('You must install and activate the Custom Fonts plugin before activating this plugin. <br><a href="' . admin_url('plugins.php') .'">&laquo; Return to Plugins</a>', 'wp-custom-font-preview'));
+            wp_die(__('This plugin is made to work with the Custom Fonts by Brainstorm Force - please install & activate that plugin before activating this plugin. <br><a href="' . admin_url('plugins.php') .'">&laquo; Return to the Plugins page</a>', 'wp-custom-font-preview'));
         }
 
 	}
