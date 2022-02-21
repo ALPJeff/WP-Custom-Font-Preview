@@ -16,6 +16,7 @@
 .wp-custom-font-preview {
 	font-size: 25px;
 	line-height: 1;
+	padding: 5px;
 	min-height: 40px;
 	border: 1px solid #cacaca;
 }
