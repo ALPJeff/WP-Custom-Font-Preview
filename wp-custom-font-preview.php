@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP Custom Font Preview
  * Plugin URI:        https://wpfontpreview.com
- * Description:       WP Custom Font Preview allows WordPress websites to pair the plugin with Brainstorm Force's Custom Fonts plugin & allow website visitors to view their text in fonts defined by the website owner.
+ * Description:       WP Custom Font Preview allows WordPress websites to pair the plugin with Brainstorm Force's Custom Fonts plugin & allow website visitors to view their text in fonts defined by the website owner. 
  * Version:           1.0.2
  * Author:            Jeff Williams
  * Author URI:        https://wpfontpreview.com
